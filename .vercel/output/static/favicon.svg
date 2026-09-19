@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" role="img" aria-label="MANGU Return">
+  <rect width="32" height="32" rx="6" fill="#F4F0E8"/>
+  <rect x="1.5" y="1.5" width="29" height="29" rx="4.8" fill="none" stroke="#1C1916" stroke-width="2"/>
+  <path d="M7.2 20.6 V6.8 L16 17.2 L24.8 6.8 V20.6"
+        fill="none" stroke="#1C1916" stroke-width="3.4" stroke-linejoin="miter" stroke-miterlimit="2.2" stroke-linecap="butt"/>
+  <path d="M5.2 6.8 h5.2 M21.6 6.8 h5.2 M5.2 20.6 h5.2 M21.6 20.6 h5.2"
+        fill="none" stroke="#1C1916" stroke-width="3" stroke-linecap="square"/>
+  <rect x="17.6" y="23.8" width="9.6" height="4.2" rx="0.7" fill="#5B6E5A"/>
+</svg>

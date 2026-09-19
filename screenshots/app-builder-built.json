@@ -1,0 +1,38 @@
+{
+  "url": "http://127.0.0.1:8081/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "MANGU Return",
+      "hasCanvas": false,
+      "bodyTextLen": 1072,
+      "bodyTextHash": "da3b7502a1323fb8967e955ef5689cbc2dda1f8277b99d54a7dc94411a0881be",
+      "bodyTextPrefix": "M MANGU Return Returns The house EST. 1959 File a book. The hous",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-built.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "MANGU Return",
+      "hasCanvas": false,
+      "bodyTextLen": 1072,
+      "bodyTextHash": "da3b7502a1323fb8967e955ef5689cbc2dda1f8277b99d54a7dc94411a0881be",
+      "bodyTextPrefix": "M MANGU Return Returns The house EST. 1959 File a book. The hous",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-built-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-built.json",
+  "divergesFromBaseline": false,
+  "baselineReasons": []
+}

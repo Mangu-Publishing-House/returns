@@ -1,0 +1,6 @@
+# MANGU Return — code ownership
+*                       @mangu/operators
+src/lib/mangu/rules.ts  @mangu/editorial
+src/lib/mangu/classify.ts @mangu/editorial
+RULES.md                @mangu/editorial
+src/lib/mangu/seed.ts   @mangu/editorial
